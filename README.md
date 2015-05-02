@@ -20,4 +20,8 @@ Press the [config button](https://tessel.io/docs/hardware) to take pictures. Tak
 
 # What does it do?
 
-When you press the config button, OCam takes a picture, flashes the blue light and plays the shutter sound, just like what a boring camera would do.
+When you press the config button, OCam takes a picture, flashes the blue LED light and plays the shutter sound, just like what a boring camera would do.
+
+# Demo
+
+It's [live](https://www.youtube.com/watch?v=Qnx3irrP0Gc).
