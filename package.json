@@ -1,0 +1,14 @@
+{
+  "name": "ocam",
+  "version": "1.0.0",
+  "description": "A camera powered by Owen & Tessel",
+  "main": "index.js",
+  "scripts": {
+    "start": "mkdir -p pics && tessel run index.js --upload-dir ./pics"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "audio-vs1053b": "^0.2.0",
+    "camera-vc0706": "^0.1.8"
+  }
+}
