@@ -17,3 +17,7 @@ $ npm start
 ```
 
 Press the [config button](https://tessel.io/docs/hardware) to take pictures. Taken pictures will be available in `./pics`.
+
+# What does it do?
+
+When you press the config button, OCam takes a picture, flashes the blue light and plays the shutter sound, just like what a boring camera would do.
